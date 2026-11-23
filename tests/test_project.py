@@ -28,7 +28,7 @@ class WikiTests(unittest.TestCase):
   self.assertTrue((ROOT/'.github/workflows/pages.yml').exists())
  def test_no_secrets(self):
   for p in ROOT.rglob('*'):
-   if p.is_file() and '.git' not in p.parts and p.suffix in ('.json','.py','.md','.html','.yml'):
+   if p.is_file() and '.git' not in p.parts and 'tests' not in p.parts and p.suffix in ('.json','.py','.md','.html','.yml'):
     s=p.read_text(encoding='utf8')
     self.assertNotIn('-----BEGIN PRIVATE KEY-----',s)
 if __name__=='__main__':unittest.main()
