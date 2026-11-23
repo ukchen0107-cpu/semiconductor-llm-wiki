@@ -1,0 +1,14 @@
+{
+  "id": "S06",
+  "title": "離子佈植與電性控制",
+  "publisher": "ASML",
+  "source_title": "Six crucial steps in semiconductor manufacturing",
+  "url": "https://www.asml.com/en/company/stories/2021/semiconductor-manufacturing-process-steps",
+  "category": "摻雜",
+  "summary": "離子佈植將帶電離子導入矽材料，調整特定區域的電性；製程包含沉積、光阻、微影、蝕刻、摻雜與封裝等重要類別。",
+  "beginner_explanation": "摻雜是在指定位置改變矽的電性，不是把電線放進晶圓。",
+  "checked_on": "2026-11-22",
+  "source_type": "官方教育或技術說明",
+  "status": "reviewed",
+  "notes": "人工整理的來源摘要；非原文全文複製。"
+}

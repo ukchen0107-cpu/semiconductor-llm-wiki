@@ -1,0 +1,14 @@
+{
+  "id": "S03",
+  "title": "光刻：把圖案轉到晶圓",
+  "publisher": "ASML",
+  "source_title": "Lithography principles",
+  "url": "https://www.asml.com/en/technology/lithography-principles",
+  "category": "微影",
+  "summary": "微影設備把光罩圖案透過投影光學系統轉移到塗有光阻的晶圓，並需要準確對準不同層的圖案。",
+  "beginner_explanation": "微影像非常精密的投影印刷，決定某層要出現的圖形位置。",
+  "checked_on": "2026-11-22",
+  "source_type": "官方教育或技術說明",
+  "status": "reviewed",
+  "notes": "人工整理的來源摘要；非原文全文複製。"
+}

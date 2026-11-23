@@ -1,0 +1,14 @@
+{
+  "id": "S04",
+  "title": "薄膜沉積：增加材料",
+  "publisher": "Applied Materials",
+  "source_title": "Create — Materials Deposition",
+  "url": "https://www.appliedmaterials.com/us/en/semiconductor/products/create.html",
+  "category": "沉積",
+  "summary": "沉積在晶圓上形成材料薄層，可能使用化學氣相沉積等方法，依目的形成絕緣、導電或其他功能薄膜。",
+  "beginner_explanation": "沉積是「加材料」，為電路蓋出一層新的薄膜。",
+  "checked_on": "2026-11-22",
+  "source_type": "官方教育或技術說明",
+  "status": "reviewed",
+  "notes": "人工整理的來源摘要；非原文全文複製。"
+}

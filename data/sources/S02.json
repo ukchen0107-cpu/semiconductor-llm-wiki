@@ -1,0 +1,14 @@
+{
+  "id": "S02",
+  "title": "製造全貌與潔淨室",
+  "publisher": "ASML",
+  "source_title": "How microchips are made",
+  "url": "https://www.asml.com/en/technology/all-about-microchips/how-microchips-are-made",
+  "category": "概觀",
+  "summary": "製造發生在受控的晶圓廠潔淨室，晶圓在許多設備之間移動；多層結構藉由反覆的加工步驟形成。",
+  "beginner_explanation": "從晶圓開始，反覆堆疊與加工不同薄層，不是一次印好整顆晶片。",
+  "checked_on": "2026-11-22",
+  "source_type": "官方教育或技術說明",
+  "status": "reviewed",
+  "notes": "人工整理的來源摘要；非原文全文複製。"
+}

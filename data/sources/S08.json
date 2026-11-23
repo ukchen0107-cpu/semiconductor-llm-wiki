@@ -1,0 +1,14 @@
+{
+  "id": "S08",
+  "title": "製程、檢測與品質",
+  "publisher": "Thermo Fisher Scientific",
+  "source_title": "Semiconductor Fabrication Overview",
+  "url": "https://www.thermofisher.com/us/en/home/industrial/manufacturing-processing/manufacturing-processing-learning-center/electronics-information/semiconductor-analysis-imaging-metrology-information/semiconductor-fabrication-overview.html",
+  "category": "檢測",
+  "summary": "製造流程包含成膜、圖案化、摻雜及金屬互連，製程中的檢測與品質控制很重要，晶圓上可包含多個晶粒。",
+  "beginner_explanation": "檢測不是最後才做，製造過程中就必須持續發現缺陷。",
+  "checked_on": "2026-11-22",
+  "source_type": "官方教育或技術說明",
+  "status": "reviewed",
+  "notes": "人工整理的來源摘要；非原文全文複製。"
+}
